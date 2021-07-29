@@ -1,6 +1,6 @@
 {
   "name": "aurelia1-fast-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enables better interactions between Aurelia 1 applications and FAST web-components. Adds two-way binding for components.",
   "main": "dist/commonjs/index.js",
   "module": "dist/native-modules/index.js",
