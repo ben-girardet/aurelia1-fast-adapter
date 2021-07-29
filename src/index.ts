@@ -7,3 +7,5 @@ export function configure(config: FrameworkConfiguration, suffix?: string) {
     PLATFORM.moduleName('./ecos-button-checked-value')
   ]);
 }
+
+export { Aurelia1FASTAdapter } from './aurelia1-fast-adapter'
